@@ -27,7 +27,7 @@ npm start
 ```json
 {
     ...
-    "homepage": "https://antonputra.github.io/react-pages-demo",
+    "homepage": "https://anatacha.github.io/react-pages-demo",
     ...
 }
 ```
@@ -55,7 +55,7 @@ npm install gh-pages
 - Connect local repository to the remote
 
 ```bash
-git remote add origin git@github.com:antonputra/react-pages-demo.git
+git remote add origin https://github.com/anatacha/namerepository.git
 git branch -M main
 git push -u origin main
 ```
